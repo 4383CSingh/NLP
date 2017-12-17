@@ -1,0 +1,11 @@
+Each of the files run individually.
+
+Main.py - combines all
+
+Be sure to check the path of the files for wav, video or text grid
+Currently the path is hardcoded.
+
+User will be asked to give the input in seconds - start and the end time in seconds
+
+Folder Sample 1- has the video, wav file used in this code.
+Sample 2 - has a video and timedtext.xml which was used earlier
